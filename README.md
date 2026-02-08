@@ -1,6 +1,3 @@
-# Database-Interview-Q-A
-A curated collection of top interview questions for MongoDB, Oracle SQL, and PL/SQL to help you crack database interviews.
-
 # 🚀 Database Interview Prep: MongoDB, SQL, & PL/SQL
 
 Welcome! This repository contains a curated collection of interview questions and answers designed to help you crack database developer and data analyst interviews.
